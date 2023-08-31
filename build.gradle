@@ -50,7 +50,7 @@ repositories {
         url "http://maven.tterrag.com/"
     }
     maven {
-        url 'http://maven.tehnut.info'
+        url "https://maven.cil.li/"
     }
     ivy {
         name 'asie dependency mirror'
