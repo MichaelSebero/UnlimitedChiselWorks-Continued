@@ -3,8 +3,12 @@
   "blocks": [
 	{
       "from": {
-        "state": "railcraft:abyssal#variant=brick"
+        "state": "railcraft:abyssal#variant=polished"
       },
+      "overlay": {
+        "state": "minecraft:concrete#color=silver"
+      },
+      "mode": "blend",
       "through": {
         "block": "chisel:stonebrick",
         "iterate": [
@@ -17,8 +21,12 @@
     },
     {
       "from": {
-        "state": "railcraft:abyssal#variant=brick"
+        "state": "railcraft:abyssal#variant=polished"
       },
+      "overlay": {
+        "state": "minecraft:concrete#color=silver"
+      },
+      "mode": "blend",
       "through": {
         "block": "chisel:stonebrick1",
         "iterate": [
@@ -31,8 +39,12 @@
     },
     {
       "from": {
-        "state": "railcraft:abyssal#variant=brick"
+        "state": "railcraft:abyssal#variant=polished"
       },
+      "overlay": {
+        "state": "minecraft:concrete#color=silver"
+      },
+      "mode": "blend",
       "through": {
         "block": "chisel:stonebrick2",
         "iterate": [
@@ -45,8 +57,12 @@
     },	
 	{
       "from": {
-        "state": "railcraft:bleachedbone#variant=brick"
+        "state": "railcraft:bleachedbone#variant=polished"
       },
+      "overlay": {
+        "state": "minecraft:concrete#color=silver"
+      },
+      "mode": "blend",
       "through": {
         "block": "chisel:stonebrick",
         "iterate": [
@@ -59,8 +75,12 @@
     },
     {
       "from": {
-        "state": "railcraft:bleachedbone#variant=brick"
+        "state": "railcraft:bleachedbone#variant=polished"
       },
+      "overlay": {
+        "state": "minecraft:concrete#color=silver"
+      },
+      "mode": "blend",
       "through": {
         "block": "chisel:stonebrick1",
         "iterate": [
@@ -73,8 +93,12 @@
     },
     {
       "from": {
-        "state": "railcraft:bleachedbone#variant=brick"
+        "state": "railcraft:bleachedbone#variant=polished"
       },
+      "overlay": {
+        "state": "minecraft:concrete#color=silver"
+      },
+      "mode": "blend",
       "through": {
         "block": "chisel:stonebrick2",
         "iterate": [
@@ -87,8 +111,12 @@
     },	
 	{
       "from": {
-        "state": "railcraft:bloodstained#variant=brick"
+        "state": "railcraft:bloodstained#variant=polished"
       },
+      "overlay": {
+        "state": "minecraft:concrete#color=silver"
+      },
+      "mode": "blend",
       "through": {
         "block": "chisel:stonebrick",
         "iterate": [
@@ -101,8 +129,12 @@
     },
     {
       "from": {
-        "state": "railcraft:bloodstained#variant=brick"
+        "state": "railcraft:bloodstained#variant=polished"
       },
+      "overlay": {
+        "state": "minecraft:concrete#color=silver"
+      },
+      "mode": "blend",
       "through": {
         "block": "chisel:stonebrick1",
         "iterate": [
@@ -115,8 +147,12 @@
     },
     {
       "from": {
-        "state": "railcraft:bloodstained#variant=brick"
+        "state": "railcraft:bloodstained#variant=polished"
       },
+      "overlay": {
+        "state": "minecraft:concrete#color=silver"
+      },
+      "mode": "blend",
       "through": {
         "block": "chisel:stonebrick2",
         "iterate": [
@@ -129,8 +165,12 @@
     },	
 	{
       "from": {
-        "state": "railcraft:frostbound#variant=brick"
+        "state": "railcraft:frostbound#variant=polished"
       },
+      "overlay": {
+        "state": "minecraft:concrete#color=silver"
+      },
+      "mode": "blend",
       "through": {
         "block": "chisel:stonebrick",
         "iterate": [
@@ -143,8 +183,12 @@
     },
     {
       "from": {
-        "state": "railcraft:frostbound#variant=brick"
+        "state": "railcraft:frostbound#variant=polished"
       },
+      "overlay": {
+        "state": "minecraft:concrete#color=silver"
+      },
+      "mode": "blend",
       "through": {
         "block": "chisel:stonebrick1",
         "iterate": [
@@ -157,8 +201,12 @@
     },
     {
       "from": {
-        "state": "railcraft:frostbound#variant=brick"
+        "state": "railcraft:frostbound#variant=polished"
       },
+      "overlay": {
+        "state": "minecraft:concrete#color=silver"
+      },
+      "mode": "blend",
       "through": {
         "block": "chisel:stonebrick2",
         "iterate": [
@@ -171,8 +219,12 @@
     },
 	{
       "from": {
-        "state": "railcraft:infernal#variant=brick"
+        "state": "railcraft:infernal#variant=polished"
       },
+      "overlay": {
+        "state": "minecraft:concrete#color=silver"
+      },
+      "mode": "blend",
       "through": {
         "block": "chisel:stonebrick",
         "iterate": [
@@ -185,8 +237,12 @@
     },
     {
       "from": {
-        "state": "railcraft:infernal#variant=brick"
+        "state": "railcraft:infernal#variant=polished"
       },
+      "overlay": {
+        "state": "minecraft:concrete#color=silver"
+      },
+      "mode": "blend",
       "through": {
         "block": "chisel:stonebrick1",
         "iterate": [
@@ -199,8 +255,12 @@
     },
     {
       "from": {
-        "state": "railcraft:infernal#variant=brick"
+        "state": "railcraft:infernal#variant=polished"
       },
+      "overlay": {
+        "state": "minecraft:concrete#color=silver"
+      },
+      "mode": "blend",
       "through": {
         "block": "chisel:stonebrick2",
         "iterate": [
@@ -213,8 +273,12 @@
     },
 	{
       "from": {
-        "state": "railcraft:quarried#variant=brick"
+        "state": "railcraft:quarried#variant=polished"
       },
+      "overlay": {
+        "state": "minecraft:concrete#color=silver"
+      },
+      "mode": "blend",
       "through": {
         "block": "chisel:stonebrick",
         "iterate": [
@@ -227,8 +291,12 @@
     },
     {
       "from": {
-        "state": "railcraft:quarried#variant=brick"
+        "state": "railcraft:quarried#variant=polished"
       },
+      "overlay": {
+        "state": "minecraft:concrete#color=silver"
+      },
+      "mode": "blend",
       "through": {
         "block": "chisel:stonebrick1",
         "iterate": [
@@ -241,8 +309,12 @@
     },
     {
       "from": {
-        "state": "railcraft:quarried#variant=brick"
+        "state": "railcraft:quarried#variant=polished"
       },
+      "overlay": {
+        "state": "minecraft:concrete#color=silver"
+      },
+      "mode": "blend",
       "through": {
         "block": "chisel:stonebrick2",
         "iterate": [
@@ -255,8 +327,12 @@
     },
 	{
       "from": {
-        "state": "railcraft:sandy#variant=brick"
+        "state": "railcraft:sandy#variant=polished"
       },
+      "overlay": {
+        "state": "minecraft:concrete#color=silver"
+      },
+      "mode": "blend",
       "through": {
         "block": "chisel:stonebrick",
         "iterate": [
@@ -269,8 +345,12 @@
     },
     {
       "from": {
-        "state": "railcraft:sandy#variant=brick"
+        "state": "railcraft:sandy#variant=polished"
       },
+      "overlay": {
+        "state": "minecraft:concrete#color=silver"
+      },
+      "mode": "blend",
       "through": {
         "block": "chisel:stonebrick1",
         "iterate": [
@@ -283,8 +363,12 @@
     },
     {
       "from": {
-        "state": "railcraft:sandy#variant=brick"
+        "state": "railcraft:sandy#variant=polished"
       },
+      "overlay": {
+        "state": "minecraft:concrete#color=silver"
+      },
+      "mode": "blend",
       "through": {
         "block": "chisel:stonebrick2",
         "iterate": [
@@ -297,8 +381,12 @@
     },
 		{
       "from": {
-        "state": "railcraft:badlands#variant=brick"
+        "state": "railcraft:badlands#variant=polished"
       },
+      "overlay": {
+        "state": "minecraft:concrete#color=silver"
+      },
+      "mode": "blend",
       "through": {
         "block": "chisel:stonebrick",
         "iterate": [
@@ -311,8 +399,12 @@
     },
     {
       "from": {
-        "state": "railcraft:badlands#variant=brick"
+        "state": "railcraft:badlands#variant=polished"
       },
+      "overlay": {
+        "state": "minecraft:concrete#color=silver"
+      },
+      "mode": "blend",
       "through": {
         "block": "chisel:stonebrick1",
         "iterate": [
@@ -325,8 +417,12 @@
     },
     {
       "from": {
-        "state": "railcraft:badlands#variant=brick"
+        "state": "railcraft:badlands#variant=polished"
       },
+      "overlay": {
+        "state": "minecraft:concrete#color=silver"
+      },
+      "mode": "blend",
       "through": {
         "block": "chisel:stonebrick2",
         "iterate": [
@@ -339,8 +435,12 @@
     },
 	{
       "from": {
-        "state": "railcraft:nether#variant=brick"
+        "state": "railcraft:nether#variant=polished"
       },
+      "overlay": {
+        "state": "minecraft:concrete#color=silver"
+      },
+      "mode": "blend",
       "through": {
         "block": "chisel:stonebrick",
         "iterate": [
@@ -353,8 +453,12 @@
     },
     {
       "from": {
-        "state": "railcraft:nether#variant=brick"
+        "state": "railcraft:nether#variant=polished"
       },
+      "overlay": {
+        "state": "minecraft:concrete#color=silver"
+      },
+      "mode": "blend",
       "through": {
         "block": "chisel:stonebrick1",
         "iterate": [
@@ -367,8 +471,12 @@
     },
     {
       "from": {
-        "state": "railcraft:nether#variant=brick"
+        "state": "railcraft:nether#variant=polished"
       },
+      "overlay": {
+        "state": "minecraft:concrete#color=silver"
+      },
+      "mode": "blend",
       "through": {
         "block": "chisel:stonebrick2",
         "iterate": [
@@ -381,8 +489,12 @@
     },
 	{
       "from": {
-        "state": "railcraft:red_nether#variant=brick"
+        "state": "railcraft:red_nether#variant=polished"
       },
+      "overlay": {
+        "state": "minecraft:concrete#color=silver"
+      },
+      "mode": "blend",
       "through": {
         "block": "chisel:stonebrick",
         "iterate": [
@@ -395,8 +507,12 @@
     },
     {
       "from": {
-        "state": "railcraft:red_nether#variant=brick"
+        "state": "railcraft:red_nether#variant=polished"
       },
+      "overlay": {
+        "state": "minecraft:concrete#color=silver"
+      },
+      "mode": "blend",
       "through": {
         "block": "chisel:stonebrick1",
         "iterate": [
@@ -409,8 +525,12 @@
     },
     {
       "from": {
-        "state": "railcraft:red_nether#variant=brick"
+        "state": "railcraft:red_nether#variant=polished"
       },
+      "overlay": {
+        "state": "minecraft:concrete#color=silver"
+      },
+      "mode": "blend",
       "through": {
         "block": "chisel:stonebrick2",
         "iterate": [
@@ -423,8 +543,12 @@
     },
 	{
       "from": {
-        "state": "railcraft:pearlized#variant=brick"
+        "state": "railcraft:pearlized#variant=polished"
       },
+      "overlay": {
+        "state": "minecraft:concrete#color=silver"
+      },
+      "mode": "blend",
       "through": {
         "block": "chisel:stonebrick",
         "iterate": [
@@ -437,8 +561,12 @@
     },
     {
       "from": {
-        "state": "railcraft:pearlized#variant=brick"
+        "state": "railcraft:pearlized#variant=polished"
       },
+      "overlay": {
+        "state": "minecraft:concrete#color=silver"
+      },
+      "mode": "blend",
       "through": {
         "block": "chisel:stonebrick1",
         "iterate": [
@@ -451,8 +579,12 @@
     },
     {
       "from": {
-        "state": "railcraft:pearlized#variant=brick"
+        "state": "railcraft:pearlized#variant=polished"
       },
+      "overlay": {
+        "state": "minecraft:concrete#color=silver"
+      },
+      "mode": "blend",
       "through": {
         "block": "chisel:stonebrick2",
         "iterate": [

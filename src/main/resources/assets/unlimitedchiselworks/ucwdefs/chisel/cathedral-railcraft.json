@@ -1,0 +1,203 @@
+{
+    "modid": ["chisel", "railcraft", "cathedral"],
+    "blocks": [
+      {
+        "from": {
+          "state": "railcraft:abyssal#variant=polished"
+        },
+        "overlay": {
+          "state": "minecraft:concrete#color=silver"
+        },
+        "mode": "blend",
+        "through": {
+          "block": "cathedral:extras_block_stone",
+          "iterate": [
+            "variant"
+          ]
+        },
+        "based_upon": {
+          "state": "minecraft:stone"
+        }
+      },
+      {
+        "from": {
+          "state": "railcraft:badlands#variant=polished"
+        },
+        "overlay": {
+          "state": "minecraft:concrete#color=silver"
+        },
+        "mode": "blend",
+        "through": {
+          "block": "cathedral:extras_block_stone",
+          "iterate": [
+            "variant"
+          ]
+        },
+        "based_upon": {
+          "state": "minecraft:stone"
+        }
+      },
+      {
+        "from": {
+          "state": "railcraft:bleachedbone#variant=polished"
+        },
+        "overlay": {
+          "state": "minecraft:concrete#color=silver"
+        },
+        "mode": "blend",
+        "through": {
+          "block": "cathedral:extras_block_stone",
+          "iterate": [
+            "variant"
+          ]
+        },
+        "based_upon": {
+          "state": "minecraft:stone"
+        }
+      },
+      {
+        "from": {
+          "state": "railcraft:bloodstained#variant=polished"
+        },
+        "overlay": {
+          "state": "minecraft:concrete#color=silver"
+        },
+        "mode": "blend",
+        "through": {
+          "block": "cathedral:extras_block_stone",
+          "iterate": [
+            "variant"
+          ]
+        },
+        "based_upon": {
+          "state": "minecraft:stone"
+        }
+      },
+      {
+        "from": {
+          "state": "railcraft:frostbound#variant=polished"
+        },
+        "overlay": {
+          "state": "minecraft:concrete#color=silver"
+        },
+        "mode": "blend",
+        "through": {
+          "block": "cathedral:extras_block_stone",
+          "iterate": [
+            "variant"
+          ]
+        },
+        "based_upon": {
+          "state": "minecraft:stone"
+        }
+      },
+      {
+        "from": {
+          "state": "railcraft:infernal#variant=polished"
+        },
+        "overlay": {
+          "state": "minecraft:concrete#color=silver"
+        },
+        "mode": "blend",
+        "through": {
+          "block": "cathedral:extras_block_stone",
+          "iterate": [
+            "variant"
+          ]
+        },
+        "based_upon": {
+          "state": "minecraft:stone"
+        }
+      },
+      {
+        "from": {
+          "state": "railcraft:nether#variant=polished"
+        },
+        "overlay": {
+          "state": "minecraft:concrete#color=silver"
+        },
+        "mode": "blend",
+        "through": {
+          "block": "cathedral:extras_block_stone",
+          "iterate": [
+            "variant"
+          ]
+        },
+        "based_upon": {
+          "state": "minecraft:stone"
+        }
+      },
+      {
+        "from": {
+          "state": "railcraft:pearlized#variant=polished"
+        },
+        "overlay": {
+          "state": "minecraft:concrete#color=silver"
+        },
+        "mode": "blend",
+        "through": {
+          "block": "cathedral:extras_block_stone",
+          "iterate": [
+            "variant"
+          ]
+        },
+        "based_upon": {
+          "state": "minecraft:stone"
+        }
+      },
+      {
+        "from": {
+          "state": "railcraft:quarried#variant=polished"
+        },
+        "overlay": {
+          "state": "minecraft:concrete#color=silver"
+        },
+        "mode": "blend",
+        "through": {
+          "block": "cathedral:extras_block_stone",
+          "iterate": [
+            "variant"
+          ]
+        },
+        "based_upon": {
+          "state": "minecraft:stone"
+        }
+      },
+      {
+        "from": {
+          "state": "railcraft:red_nether#variant=polished"
+        },
+        "overlay": {
+          "state": "minecraft:concrete#color=silver"
+        },
+        "mode": "blend",
+        "through": {
+          "block": "cathedral:extras_block_stone",
+          "iterate": [
+            "variant"
+          ]
+        },
+        "based_upon": {
+          "state": "minecraft:stone"
+        }
+      },
+      {
+        "from": {
+          "state": "railcraft:sandy#variant=polished"
+        },
+        "overlay": {
+          "state": "minecraft:concrete#color=silver"
+        },
+        "mode": "blend",
+        "through": {
+          "block": "cathedral:extras_block_stone",
+          "iterate": [
+            "variant"
+          ]
+        },
+        "based_upon": {
+          "state": "minecraft:stone"
+        }
+      }
+    ]
+}

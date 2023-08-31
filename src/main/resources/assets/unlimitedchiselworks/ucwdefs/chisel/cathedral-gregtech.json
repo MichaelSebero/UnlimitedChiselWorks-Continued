@@ -1,0 +1,22 @@
+{
+    "modid": ["chisel", "gregtech", "cathedral"],
+    "blocks": [
+      {
+        "from": {
+          "block": "gregtech:stone_smooth",
+          "iterate": [
+            "variant"
+          ]
+        },
+        "through": {
+          "block": "cathedral:extras_block_stone",
+          "iterate": [
+            "variant"
+          ]
+        },
+        "based_upon": {
+          "state": "minecraft:stone"
+        }
+      }
+    ]
+}
