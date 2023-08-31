@@ -3,7 +3,7 @@
   "blocks": [
 	{
       "from": {
-        "state": "railcraft:brick_abyssal#variant:fitted"
+        "state": "railcraft:abyssal#variant=brick"
       },
       "through": {
         "block": "chisel:stonebrick",
@@ -17,7 +17,7 @@
     },
     {
       "from": {
-        "state": "railcraft:brick_abyssal#variant:fitted"
+        "state": "railcraft:abyssal#variant=brick"
       },
       "through": {
         "block": "chisel:stonebrick1",
@@ -31,7 +31,7 @@
     },
     {
       "from": {
-        "state": "railcraft:brick_abyssal#variant:fitted"
+        "state": "railcraft:abyssal#variant=brick"
       },
       "through": {
         "block": "chisel:stonebrick2",
@@ -45,7 +45,7 @@
     },	
 	{
       "from": {
-        "state": "railcraft:brick_bleachedbone#variant:fitted"
+        "state": "railcraft:bleachedbone#variant=brick"
       },
       "through": {
         "block": "chisel:stonebrick",
@@ -59,7 +59,7 @@
     },
     {
       "from": {
-        "state": "railcraft:brick_bleachedbone#variant:fitted"
+        "state": "railcraft:bleachedbone#variant=brick"
       },
       "through": {
         "block": "chisel:stonebrick1",
@@ -73,7 +73,7 @@
     },
     {
       "from": {
-        "state": "railcraft:brick_bleachedbone#variant:fitted"
+        "state": "railcraft:bleachedbone#variant=brick"
       },
       "through": {
         "block": "chisel:stonebrick2",
@@ -87,7 +87,7 @@
     },	
 	{
       "from": {
-        "state": "railcraft:brick_bloodstained#variant:fitted"
+        "state": "railcraft:bloodstained#variant=brick"
       },
       "through": {
         "block": "chisel:stonebrick",
@@ -101,7 +101,7 @@
     },
     {
       "from": {
-        "state": "railcraft:brick_bloodstained#variant:fitted"
+        "state": "railcraft:bloodstained#variant=brick"
       },
       "through": {
         "block": "chisel:stonebrick1",
@@ -115,7 +115,7 @@
     },
     {
       "from": {
-        "state": "railcraft:brick_bloodstained#variant:fitted"
+        "state": "railcraft:bloodstained#variant=brick"
       },
       "through": {
         "block": "chisel:stonebrick2",
@@ -129,7 +129,7 @@
     },	
 	{
       "from": {
-        "state": "railcraft:brick_frostbound#variant:fitted"
+        "state": "railcraft:frostbound#variant=brick"
       },
       "through": {
         "block": "chisel:stonebrick",
@@ -143,7 +143,7 @@
     },
     {
       "from": {
-        "state": "railcraft:brick_frostbound#variant:fitted"
+        "state": "railcraft:frostbound#variant=brick"
       },
       "through": {
         "block": "chisel:stonebrick1",
@@ -157,7 +157,7 @@
     },
     {
       "from": {
-        "state": "railcraft:brick_frostbound#variant:fitted"
+        "state": "railcraft:frostbound#variant=brick"
       },
       "through": {
         "block": "chisel:stonebrick2",
@@ -171,7 +171,7 @@
     },
 	{
       "from": {
-        "state": "railcraft:brick_infernal#variant:fitted"
+        "state": "railcraft:infernal#variant=brick"
       },
       "through": {
         "block": "chisel:stonebrick",
@@ -185,7 +185,7 @@
     },
     {
       "from": {
-        "state": "railcraft:brick_infernal#variant:fitted"
+        "state": "railcraft:infernal#variant=brick"
       },
       "through": {
         "block": "chisel:stonebrick1",
@@ -199,7 +199,7 @@
     },
     {
       "from": {
-        "state": "railcraft:brick_infernal#variant:fitted"
+        "state": "railcraft:infernal#variant=brick"
       },
       "through": {
         "block": "chisel:stonebrick2",
@@ -213,7 +213,7 @@
     },
 	{
       "from": {
-        "state": "railcraft:brick_quarried#variant:fitted"
+        "state": "railcraft:quarried#variant=brick"
       },
       "through": {
         "block": "chisel:stonebrick",
@@ -227,7 +227,7 @@
     },
     {
       "from": {
-        "state": "railcraft:brick_quarried#variant:fitted"
+        "state": "railcraft:quarried#variant=brick"
       },
       "through": {
         "block": "chisel:stonebrick1",
@@ -241,7 +241,7 @@
     },
     {
       "from": {
-        "state": "railcraft:brick_quarried#variant:fitted"
+        "state": "railcraft:quarried#variant=brick"
       },
       "through": {
         "block": "chisel:stonebrick2",
@@ -255,7 +255,7 @@
     },
 	{
       "from": {
-        "state": "railcraft:brick_sandy#variant:fitted"
+        "state": "railcraft:sandy#variant=brick"
       },
       "through": {
         "block": "chisel:stonebrick",
@@ -269,7 +269,7 @@
     },
     {
       "from": {
-        "state": "railcraft:brick_sandy#variant:fitted"
+        "state": "railcraft:sandy#variant=brick"
       },
       "through": {
         "block": "chisel:stonebrick1",
@@ -283,7 +283,7 @@
     },
     {
       "from": {
-        "state": "railcraft:brick_sandy#variant:fitted"
+        "state": "railcraft:sandy#variant=brick"
       },
       "through": {
         "block": "chisel:stonebrick2",
@@ -297,7 +297,7 @@
     },
 		{
       "from": {
-        "state": "railcraft:brick_red_sandy#variant:fitted"
+        "state": "railcraft:badlands#variant=brick"
       },
       "through": {
         "block": "chisel:stonebrick",
@@ -311,7 +311,7 @@
     },
     {
       "from": {
-        "state": "railcraft:brick_red_sandy#variant:fitted"
+        "state": "railcraft:badlands#variant=brick"
       },
       "through": {
         "block": "chisel:stonebrick1",
@@ -325,7 +325,7 @@
     },
     {
       "from": {
-        "state": "railcraft:brick_red_sandy#variant:fitted"
+        "state": "railcraft:badlands#variant=brick"
       },
       "through": {
         "block": "chisel:stonebrick2",
@@ -339,7 +339,7 @@
     },
 	{
       "from": {
-        "state": "railcraft:brick_nether#variant:fitted"
+        "state": "railcraft:nether#variant=brick"
       },
       "through": {
         "block": "chisel:stonebrick",
@@ -353,7 +353,7 @@
     },
     {
       "from": {
-        "state": "railcraft:brick_nether#variant:fitted"
+        "state": "railcraft:nether#variant=brick"
       },
       "through": {
         "block": "chisel:stonebrick1",
@@ -367,7 +367,7 @@
     },
     {
       "from": {
-        "state": "railcraft:brick_nether#variant:fitted"
+        "state": "railcraft:nether#variant=brick"
       },
       "through": {
         "block": "chisel:stonebrick2",
@@ -381,7 +381,7 @@
     },
 	{
       "from": {
-        "state": "railcraft:brick_red_nether#variant:fitted"
+        "state": "railcraft:red_nether#variant=brick"
       },
       "through": {
         "block": "chisel:stonebrick",
@@ -395,7 +395,7 @@
     },
     {
       "from": {
-        "state": "railcraft:brick_red_nether#variant:fitted"
+        "state": "railcraft:red_nether#variant=brick"
       },
       "through": {
         "block": "chisel:stonebrick1",
@@ -409,7 +409,7 @@
     },
     {
       "from": {
-        "state": "railcraft:brick_red_nether#variant:fitted"
+        "state": "railcraft:red_nether#variant=brick"
       },
       "through": {
         "block": "chisel:stonebrick2",
@@ -423,7 +423,7 @@
     },
 	{
       "from": {
-        "state": "railcraft:brick_pearlized#variant:fitted"
+        "state": "railcraft:pearlized#variant=brick"
       },
       "through": {
         "block": "chisel:stonebrick",
@@ -437,7 +437,7 @@
     },
     {
       "from": {
-        "state": "railcraft:brick_pearlized#variant:fitted"
+        "state": "railcraft:pearlized#variant=brick"
       },
       "through": {
         "block": "chisel:stonebrick1",
@@ -451,7 +451,7 @@
     },
     {
       "from": {
-        "state": "railcraft:brick_pearlized#variant:fitted"
+        "state": "railcraft:pearlized#variant=brick"
       },
       "through": {
         "block": "chisel:stonebrick2",
