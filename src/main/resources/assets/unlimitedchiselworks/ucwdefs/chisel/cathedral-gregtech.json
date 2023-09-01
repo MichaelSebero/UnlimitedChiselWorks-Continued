@@ -17,6 +17,20 @@
         "based_upon": {
           "state": "minecraft:stone"
         }
+      },
+      {
+        "from": {
+          "state": "gregtech:reinforced_petrified_foam#color=white"
+        },
+        "through": {
+          "block": "cathedral:extras_block_stone",
+          "iterate": [
+            "variant"
+          ]
+        },
+        "based_upon": {
+          "state": "minecraft:stone"
+        }
       }
     ]
 }

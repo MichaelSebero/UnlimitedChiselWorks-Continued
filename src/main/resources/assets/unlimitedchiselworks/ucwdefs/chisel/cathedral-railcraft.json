@@ -198,6 +198,24 @@
         "based_upon": {
           "state": "minecraft:stone"
         }
+      },
+      {
+        "from": {
+          "block": "railcraft:jaded_stone"
+        },
+        "overlay": {
+          "state": "minecraft:concrete#color=green"
+        },
+        "mode": "blend",
+        "through": {
+          "block": "cathedral:extras_block_stone",
+          "iterate": [
+            "variant"
+          ]
+        },
+        "based_upon": {
+          "state": "minecraft:stone"
+        }
       }
     ]
 }

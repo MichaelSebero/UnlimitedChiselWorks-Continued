@@ -102,6 +102,48 @@
       "based_upon": {
         "state": "minecraft:stonebrick#variant=stonebrick"
       }
+    },
+    {
+      "from": {
+        "state": "gregtech:reinforced_petrified_foam#color=white"
+      },
+      "through": {
+        "block": "chisel:stonebrick",
+        "iterate": [
+          "variation"
+        ]
+      },
+      "based_upon": {
+        "state": "minecraft:stone#variant=stone"
+      }
+    },
+    {
+      "from": {
+        "state": "gregtech:reinforced_petrified_foam#color=white"
+      },
+      "through": {
+        "block": "chisel:stonebrick1",
+        "iterate": [
+          "variation"
+        ]
+      },
+      "based_upon": {
+        "state": "minecraft:stone#variant=stone"
+      }
+    },
+    {
+      "from": {
+        "state": "gregtech:reinforced_petrified_foam#color=white"
+      },
+      "through": {
+        "block": "chisel:stonebrick2",
+        "iterate": [
+          "variation"
+        ]
+      },
+      "based_upon": {
+        "state": "minecraft:stone#variant=stone"
+      }
     }
   ]
 }
