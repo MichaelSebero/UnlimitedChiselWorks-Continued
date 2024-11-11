@@ -23,6 +23,7 @@ archivesBaseName = "UnlimitedChiselWorks"
 sourceCompatibility = targetCompatibility = '1.8'
 compileJava {
     sourceCompatibility = targetCompatibility = '1.8'
+    options.encoding = 'UTF-8'
 }
 
 if (System.getenv("BUILD_NUMBER") != null)
@@ -58,12 +59,36 @@ repositories {
     }
 }
 
+// Fix sourceSets configuration for older Gradle
 sourceSets {
     main {
-        output.resourcesDir = 'build/classes/java/main'
-        resources {
-            srcDirs += 'docs'
+        java {
+            srcDirs = ['src/main/java']
         }
+        resources {
+            srcDirs = ['src/main/resources', 'docs']
+        }
+    }
+}
+
+// Add configurations to handle duplicates
+configurations {
+    all*.exclude group: 'pl.asie.ucw', module: 'UnlimitedChiselWorks'
+}
+
+jar {
+    duplicatesStrategy = DuplicatesStrategy.EXCLUDE
+    
+    manifest {
+        attributes(
+            'Specification-Title': archivesBaseName,
+            'Specification-Version': version,
+            'Implementation-Title': archivesBaseName,
+            'Implementation-Version': version,
+            'Built-By': System.getProperty('user.name'),
+            'Created-By': "${System.getProperty('java.version')} (${System.getProperty('java.vendor')})",
+            'ForceLoadAsMod': true
+        )
     }
 }
 
@@ -104,5 +129,5 @@ processResources {
 }
 
 if (file('private.gradle').exists()) {
-	apply from: 'private.gradle'
+    apply from: 'private.gradle'
 }
